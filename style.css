@@ -1,1 +1,20 @@
+body {background-color:slategrey;
+ Margin: 10% 20%; }
+h1 {color:saddlebrown}
+h2 {color:tan}
+h5 {color:saddlebrown}
+p{line-height: 0.1;}
+H3 { line-height: 0.1;}
+H4 {line-height: 0.1;}
+p{ font-family: "Times New Roman", Times, serif;}
+h1{ font-family: "Times New Roman", Times, serif;}
+h2{ font-family: "Times New Roman", Times, serif;}
+h5{ font-family: "Times New Roman", Times, serif;}
+h4{ font-family: "Times New Roman", Times, serif;}
 
+.exp-header {
+  text-align: center ;
+  text-transform:uppercase;
+border-top: 1px solid #dddddd;
+border-bottom: 1px solid #dddddd;
+background color: rgba (0,0,0,0.1) }
